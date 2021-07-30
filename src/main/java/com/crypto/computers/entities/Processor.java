@@ -2,6 +2,7 @@ package com.crypto.computers.entities;
 
 import javax.faces.bean.ManagedBean;
 
+
 @ManagedBean
 public class Processor {
 
